@@ -1,1 +1,3 @@
 this is b file
+
+add second line in b file
